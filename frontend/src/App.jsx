@@ -14,7 +14,7 @@ import {
   CartesianGrid
 } from "recharts";
 
-const API = "https://your-render-url.onrender.com";
+const API = "https://https://fintrack-ai-ugyq.onrender.com/";
 
 const COLORS = [
   "#00d4ff",
