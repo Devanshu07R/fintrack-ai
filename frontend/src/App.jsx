@@ -14,7 +14,7 @@ import {
   CartesianGrid
 } from "recharts";
 
-const API = "http://127.0.0.1:5000";
+const API = "https://your-render-url.onrender.com";
 
 const COLORS = [
   "#00d4ff",
